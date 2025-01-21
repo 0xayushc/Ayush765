@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ayush Chauhan</h1>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayush765&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=0xayushc&icon=0&color=4)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayush765&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=0xayushc&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <br>
 
 
-•  🔭 Master of Computer Applications DDIT'25<br><br> •  🌱 learning MERN Stack <br><br> •   💬 Ask me about MERN stack and Cybersecurity <br><br> •   📫 How to reach me ayush.chauhanbs@gmail.com<br><br>
-<br>
+
 
  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br> 
  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush765&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xayushc&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🌐 Socials:
